@@ -16,7 +16,7 @@ int main()
      cout << " hot"  << endl;
 
     }
-    else if ( temperature = 25 - 34 )
+    else if ( temperature >= 25 && temperature <= 34 )
      {
        cout << " warm"  << endl;
     

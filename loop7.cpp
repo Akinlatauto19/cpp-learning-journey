@@ -14,7 +14,7 @@ int main()
   {
     for ( int j = 1; j <= numberC; j++)
     {
-        cout << "#" << endl;
+        cout << "#";
     }
     cout  << endl;
   }

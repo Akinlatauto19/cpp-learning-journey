@@ -12,6 +12,6 @@ int main()
     cout <<  age << endl;
     cout << height << endl;
 
-
+ 
     return 0;
 }
